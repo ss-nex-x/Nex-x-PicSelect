@@ -1,0 +1,15 @@
+Nex-X Pix Select - License Key Fallback Package
+
+This file helps support verify your activation request when email delivery is delayed.
+
+Steps:
+1. Keep this file unchanged.
+2. Send it to support@nex-x.io with:
+   - Your purchase email
+   - Order ID / payment reference
+   - Device name from app activation screen
+3. Support will issue or re-send your correct activation key.
+
+Important:
+- This file is not a purchased activation key.
+- Do not share your final activation key publicly.
